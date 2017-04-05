@@ -1,0 +1,18 @@
+body {
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0 10px 0 10px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.headline {
+	border-bottom: 2px solid #000;
+	font-size: 16px;
+	letter-spacing: 10px;
+	padding: 5px 0 5px 0;
+	text-align: center;
+	text-transform: uppercase;
